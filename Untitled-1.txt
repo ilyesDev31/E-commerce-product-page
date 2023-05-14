@@ -1,0 +1,11 @@
+   /*product code*/
+   <div class="p">
+                    <img src="./images/image-product-1.jpg" alt="">
+                    <div class="text">
+                        <p>Fall Limited Edition Sneakers $125.00 x 3 <span class="bold-price">$375.00</span></p>
+                    </div>
+                    <div class="icon">
+                        <i class="fa-solid fa-trash"></i>
+                    </div>
+                </div>
+   /*product code*/
